@@ -15,5 +15,8 @@ Overview of the project
 Project:Exploring innovative things using the C programming language
 
 Objective:
-Develop a simple quiz game that presents multiple choice questions to the user. The game should keep track ofthe user's score and provide feedback based on their answers
+Create a program that converts temperatures between Celsius,
+Fahrenheit, and Kelvin. The program should allow the user to
+input a temperature in one scale and output the converted
+temperature in another scale.
 ![image](https://github.com/Aditya202006/CODTECH-Task-2/assets/174247923/aefbf561-6066-40ef-aace-1c798f13c17a)
